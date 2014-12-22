@@ -1,4 +1,4 @@
-getwd## LengthMatters.r
+## LengthMatters.r
 ########################################################################
 ##
 ## i.e. Sail Boat Length
